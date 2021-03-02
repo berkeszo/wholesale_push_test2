@@ -1,2 +1,2 @@
 # wholesale_push_test2
-test1
+test2
